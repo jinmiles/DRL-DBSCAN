@@ -1,0 +1,2 @@
+Best params: {'eps': np.float64(0.55), 'minpts': 9}
+silhouette: -1

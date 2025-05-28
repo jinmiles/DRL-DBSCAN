@@ -1,0 +1,6 @@
+Estimated epsilon: 0.21080137040282507
+minPts: 4
+silhouette: 0.0912690538162234
+davies_bouldin: 1.6576695284075946
+calinski_harabasz: 74.2210602966434
+n_clusters: 6

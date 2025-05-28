@@ -1,0 +1,5 @@
+Best params: {'eps': np.float64(0.55), 'minpts': 10}
+silhouette: 0.8910207449839237
+davies_bouldin: 0.15342429935687565
+calinski_harabasz: 15574.889840161459
+n_clusters: 3

@@ -1,0 +1,4 @@
+Method          | Epsilon  | minPts | Silhouette | Davies-Bouldin | #Clusters
+----------------------------------------------------------------------
+DRL             | 0.5500   | 9      | -1.0000    | nan            | nan      
+Baseline        | 0.2108   | 4      | 0.0913     | 1.6577         | 6        
